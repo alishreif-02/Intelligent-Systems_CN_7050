@@ -4,4 +4,9 @@ I built MetalGuard, a computer vision prototype that inspects images of metal su
 
 I developed the dashboard in Python and Gradio, integrated n8n to track inspection events, and added a case-based AI chat so users can ask questions such as “Why was this surface flagged?” The project brought together model evaluation, workflow automation, and interface design around a practical quality-control problem.
 
-#Five skills to tag: Computer Vision · Python · Deep Learning · API Integration · Workflow Automation
+# Five skills to tag:
+## · Computer Vision 
+## · Python 
+## · Deep Learning 
+## · API Integration 
+## · Workflow Automation
